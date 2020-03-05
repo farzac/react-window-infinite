@@ -1,3 +1,20 @@
+<!--
+*** Obrigado por estar vendo o nosso README. Se você tiver alguma sugestão
+*** que possa melhorá-lo ainda mais dê um fork no repositório e crie uma Pull
+*** Request ou abra uma Issue com a tag "sugestão".
+*** Obrigado novamente! Agora vamos rodar esse projeto incrível :D
+-->
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/fabio-zaccantte">
+    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEEmvqHn__oFQ/profile-displayphoto-shrink_200_200/0?e=1588809600&v=beta&t=b1onrHVlWrKscd38EfO8Rv6bPwnrPfklmMBirl0nt5o" alt="Logo">
+  </a>
+  <h3 align="center">react-window-infinite</h3>
+</p>
+
+
 # Create React App [![Build Status](https://dev.azure.com/facebook/create-react-app/_apis/build/status/facebook.create-react-app?branchName=master)](https://dev.azure.com/facebook/create-react-app/_build/latest?definitionId=1&branchName=master) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/facebook/create-react-app/blob/master/CONTRIBUTING.md)
 
 Create React apps with no build configuration.
