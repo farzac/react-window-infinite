@@ -17,8 +17,8 @@
 <!-- PROFILE -->
 <br />
 <p align="center">
-  <a href="https://www.linkedin.com/in/fabio-zaccantte">
-    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEEmvqHn__oFQ/profile-displayphoto-shrink_200_200/0?e=1588809600&v=beta&t=b1onrHVlWrKscd38EfO8Rv6bPwnrPfklmMBirl0nt5o" alt="Logo">
+  <a>
+    <img src="https://user-images.githubusercontent.com/2182637/65490523-a7307980-def0-11e9-9991-a7e0c2a6e30a.gif" alt="Logo">
   </a>
   <h3 align="center">React Window Infinite</h3>
 </p>
